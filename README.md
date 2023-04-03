@@ -44,7 +44,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/Teklehaymanot-G">
+<a href="https://github.com/mes28fin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mes28fin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mes28fin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -53,7 +53,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://Teklehaymanot-G.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/mes28fin.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://mes28fin.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/mes28fin.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
 
 <a href="mes28fin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mes28fin@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
