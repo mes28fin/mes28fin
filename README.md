@@ -45,15 +45,15 @@
 
 <p align="center">
 <a href="https://github.com/Teklehaymanot-G">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Teklehaymanot-G&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Teklehaymanot-G&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mes28fin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mes28fin&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://Teklehaymanot-G.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/Teklehaymanot-G.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
-  <a href="https://www.linkedin.com/in/teklehaymanot-girma/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-teklehaymanot%20girma-blue?style=flat-square&logo=linkedin"></a>
-<a href="t24haymanot@gmail.com"><img alt="Email" src="https://img.shields.io/badge/t24haymanot@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://Teklehaymanot-G.github.io/myPortfolio/"><img alt="Website" src="https://img.shields.io/badge/mes28fin.github.io/myPortfolio-blue?style=flat-square&logo=google-chrome"></a>
+
+<a href="mes28fin@gmail.com"><img alt="Email" src="https://img.shields.io/badge/mes28fin@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
